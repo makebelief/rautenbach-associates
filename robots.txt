@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Demo pages have noindex meta tags; sharing crawlers must access HTML and OG image.
